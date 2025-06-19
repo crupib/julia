@@ -1,0 +1,4 @@
+/_build
+*~
+Manifest.toml
+.venv
